@@ -18,7 +18,7 @@ bin/
 !**/src/test/**/bin/
 
 ### NetBeans ###
-/nbproject/private/
+/nbpr oject/private/
 /nbbuild/
 /dist/
 /nbdist/
